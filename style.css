@@ -1,0 +1,66 @@
+#page {
+	display: grid;
+	grid-template-columns: auto;
+	background-color: white;
+}
+#logo {
+	width:400px;
+	height:200px;
+}
+#grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto auto auto auto;
+	background-color:white ;
+	padding: 5px;
+}
+#grid-container3 {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color:white ;
+	padding: 5px;
+}
+#grid-container2 {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto auto auto auto;
+	background-color: #050505;
+	padding: 5px;
+}
+#name {
+	background-color: white;
+}
+#nameID {
+	background-color: #69bc45;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#firstName {
+	background-color: #dddddd ;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#midName {
+	background-color: #cefb66 ;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#lastName {
+	background-color:#66fba8;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#addID {
+	background-color:#66f0fb;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#blockNum {
+	background-color: #6678fb ;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#streetName {
+	background-color:#be66fb;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#city {
+	background-color:#fb66e7;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
+#addType {
+	background-color:#fb668f;
+	border: 1px solid rgba(0, 0, 0, 0.8);
+}
